@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'icomoon-rails/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = 'icomoon-rails'
+  gem.name          = 'icomoon-rails-nilesh'
   gem.version       = Icomoon::Rails::VERSION
   gem.authors       = ['Tse-Ching Ho']
   gem.email         = ['tsechingho@gmail.com']
